@@ -1,16 +1,18 @@
 /* Review @media queries */
 /* Bring in Bootstrap CSS */
 body {
-	background-color: white;
-	color: #333;
 	margin: 0;
 }
 
 header {
-	background-color: rgb(5, 109, 194);
+	background-color: greenyellow;
 	color: #333;
 }
 
 .intro {
-	width: 500px;
+	width: 400px;
+}
+
+.navbar-nav {
+	align-items: right;
 }
