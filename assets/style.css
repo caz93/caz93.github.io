@@ -19,5 +19,6 @@ form {
 img {
 	width: 500px;
 	height: 400px;
-	margin: 20px;
+	margin-bottom: 20px;
+	align-items: left;
 }
